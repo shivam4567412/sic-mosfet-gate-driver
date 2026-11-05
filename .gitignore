@@ -1,0 +1,10 @@
+   *.raw
+   *.log
+   *.bak
+   __Previews/
+   History/
+   Project Logs*/
+   Project Outputs*/
+   *.tmp
+   Debug/
+   Release/
